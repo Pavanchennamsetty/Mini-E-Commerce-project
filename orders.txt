@@ -1,0 +1,12 @@
+----
+OrderId: ORD1765444031682
+Date: Thu Dec 11 14:37:11 IST 2025
+  Wireless Mouse x 2 = ₹998.00
+Total: ₹998.00
+
+----
+OrderId: ORD1765445628318
+Date: Thu Dec 11 15:03:48 IST 2025
+  Water Bottle x 2 = ₹698.00
+Total: ₹698.00
+
